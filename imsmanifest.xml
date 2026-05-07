@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mov673m5itkpj"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mov673m5itkpj">
+    <organization identifier="eXe-mov673m5itkpj" structure="hierarchical">
+      <title>La asamblea de Lilo</title>
+      <item identifier="ITEM-page-mov66l3s-pde8o1fn4" identifierref="RES-page-mov66l3s-pde8o1fn4" isvisible="true">
+        <title>Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3v-8efqqhiv3" identifierref="RES-page-mov66l3v-8efqqhiv3" isvisible="true">
+        <title>Tarea 2.1: Presentación y descripción del proyecto</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3w-zfgvhqibm" identifierref="RES-page-mov66l3w-zfgvhqibm" isvisible="true">
+        <title>Tarea 2.3: Protección de datos personales.</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3w-42aqyx8rs" identifierref="RES-page-mov66l3w-42aqyx8rs" isvisible="true">
+        <title>Tarea 4.1: Descripción del producto final</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3x-iu96actq0" identifierref="RES-page-mov66l3x-iu96actq0" isvisible="true">
+        <title>Tarea 5.1: Herramientas de curación</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3x-ki8vgz4ds" identifierref="RES-page-mov66l3x-ki8vgz4ds" isvisible="true">
+        <title>Tarea 7.1: Línea temporal</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3y-5fk2eqf39" identifierref="RES-page-mov66l3y-5fk2eqf39" isvisible="true">
+        <title>Tarea 6.1: Criterios de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3y-aubu5vcxq" identifierref="RES-page-mov66l3y-aubu5vcxq" isvisible="true">
+        <title>Tarea 8.1: Instrumentos de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-mov66l3y-d19l3utkm" identifierref="RES-page-mov66l3y-d19l3utkm" isvisible="true">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mov66l3s-pde8o1fn4" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3v-8efqqhiv3" type="webcontent" adlcp:scormtype="sco" href="html/tarea-21-presentacion-y-descripcion-del-proyecto.html">
+      <file href="html/tarea-21-presentacion-y-descripcion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3w-zfgvhqibm" type="webcontent" adlcp:scormtype="sco" href="html/tarea-23-proteccion-de-datos-personales.html">
+      <file href="html/tarea-23-proteccion-de-datos-personales.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3w-42aqyx8rs" type="webcontent" adlcp:scormtype="sco" href="html/tarea-41-descripcion-del-producto-final.html">
+      <file href="html/tarea-41-descripcion-del-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3x-iu96actq0" type="webcontent" adlcp:scormtype="sco" href="html/tarea-51-herramientas-de-curacion.html">
+      <file href="html/tarea-51-herramientas-de-curacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3x-ki8vgz4ds" type="webcontent" adlcp:scormtype="sco" href="html/tarea-71-linea-temporal.html">
+      <file href="html/tarea-71-linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3y-5fk2eqf39" type="webcontent" adlcp:scormtype="sco" href="html/tarea-61-criterios-de-evaluacion.html">
+      <file href="html/tarea-61-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3y-aubu5vcxq" type="webcontent" adlcp:scormtype="sco" href="html/tarea-81-instrumentos-de-evaluacion.html">
+      <file href="html/tarea-81-instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov66l3y-d19l3utkm" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/1a6340af-a54e-96d8-8e99-6e155108d22f.png"/>
+      <file href="content/resources/60703e1d-15a5-0009-ebe0-03cee1eb5551.jpg"/>
+      <file href="content/resources/Asamblea de Lilo.png"/>
+      <file href="content/resources/Captura de pantalla 2026-05-02 110009.png"/>
+      <file href="content/resources/Captura de pantalla 2026-05-06 165545.png"/>
+      <file href="content/resources/Infografía Lilo.jpg"/>
+      <file href="content/resources/La asamblea de Lilo.png"/>
+      <file href="content/resources/c178917f-417d-3681-f82d-1eb8f7b8dcb4.png"/>
+      <file href="content/resources/d0b963a4-4171-6c95-30b0-b4110f6b5a06.png"/>
+      <file href="content/resources/e2194e4d-4c31-2543-64bb-46b2eca99b15.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
